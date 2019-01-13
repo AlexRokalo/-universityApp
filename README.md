@@ -1,5 +1,5 @@
-# -universityApp
-Ok, if you whant to see the cod, no problem.\n
+# UniversityApp
+Ok, if you whant to see the cod, no problem.
 But if you whant start program, you should to do some tasks.
 --------------------------------------------------------------
 1)Your should download the XMAPP program.
